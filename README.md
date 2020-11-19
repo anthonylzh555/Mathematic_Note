@@ -7,3 +7,4 @@
  - Principal Component Analysis (2020/02)
  - Kalman Filter (2020/10/20)
  - t-distributed stochastic neighbor embedding (2020/10/30)
+ - Kernal Principal Component Analysis (2020/11/19)
